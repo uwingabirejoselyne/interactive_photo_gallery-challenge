@@ -25,6 +25,34 @@
     font-weight: 700;
     line-height: 34.5px;
 }
+
+.info span{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 16.02px;
+    opacity: 70%;
+    margin-top: 8px;
+}
+.more-info {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.more-info a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 5px;
+    color: inherit;
+    font-size: 16px;
+}
+
+.more-info i {
+    margin-left: 5px;
+}
 .image-interaction img{
     width: 100%;
 }

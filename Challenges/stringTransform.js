@@ -13,5 +13,4 @@ const transformString = str => {
     return str;
 };
 
-console.log(transformString("Chocolate Chip Cookie"));
 

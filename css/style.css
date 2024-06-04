@@ -100,19 +100,19 @@
 
 @media (max-width: 1200px) {
     .image-interaction {
-        max-width: 32%;
+        width: 32%;
     }
 }
 
 @media (max-width: 992px) {
     .image-interaction {
-        max-width: 48%;
+        width: 48%;
     }
 }
 
 @media (max-width: 768px) {
     .image-interaction {
-        max-width: 100%;
+        width: 100%;
     }
 
     .info h2 {

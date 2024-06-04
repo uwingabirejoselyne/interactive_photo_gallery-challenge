@@ -11,8 +11,3 @@ const hasSubarrayWithSum = (arr, target) => {
         return sum === target;
     });
 };
-
-
-const arr = [4, 2, 7, 1, 9, 5];
-const target = 17;
-console.log(hasSubarrayWithSum(arr, target));
